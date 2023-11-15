@@ -77,6 +77,9 @@ button {
 .header-action .header-action_cart {
     font-size: 30px;
 }
+.header_logo {
+    padding-right: 80px;
+}
 /* ---------------------------Baner   -----------------------*/
 #banner-section {
     background: url(img/banner.png) 50% 0%/cover no-repeat;
@@ -110,6 +113,7 @@ button {
     background-color: #735637;
 }
 .banner_btn {
+    margin-top: 50px;
     padding: 24px 40px;
 }
 .banner-video_btn {
